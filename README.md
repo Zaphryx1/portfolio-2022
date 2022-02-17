@@ -4,7 +4,8 @@
 
 ## Description
 
-    I was motivated to learn what possibilities I can work on creating my own website. Although, it seems primitive, a lot of information was processed during creating of this project. I truly enjoyed the fundamentals of this project. Please visit the repository at https://github.com/Zaphryx1/portfolio-mg/.
+    I was motivated to learn what possibilities I can work on creating my own website. 
+    Although, it seems primitive, a lot of information was processed during creating of this project. I truly enjoyed the fundamentals of this project. Please visit the repository at https://github.com/Zaphryx1/portfolio-mg/.
     Please visit the live website at https://zaphryx1.github.io/portfolio-mg/.
 
 ## Installation
